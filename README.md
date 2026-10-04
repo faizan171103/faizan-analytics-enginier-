@@ -228,27 +228,7 @@ Raw tables land in Bronze untouched, so the source of truth stays reprocessable.
 
 **Technology:** Snowflake SQL, Power BI, CSV Data Ingestion, Medallion Architecture (Bronze, Silver, Gold)
 
----
 
-## Additional Analytics Projects
-
-### Sales Analytics
-
-Analyzed 64,000+ sales records across five years using Python and Pandas, then built an interactive Power BI dashboard. Identified recurring May–June revenue peaks and January slowdowns, and turned regional, channel, and product findings into recommendations for inventory, pricing, and marketing.
-
-**Technology:** Python, Pandas, NumPy, Matplotlib, Seaborn, Excel, Power BI
-
-**Links:** [Python Analysis](#) · [Cleaned Dataset](#) · [Repository](#)
-
-### Analysis of Customer Behavior
-
-Analyzed 3,900+ customer transactions using Python, SQL (CTEs, subqueries, window functions, `CASE` statements), and Power BI. Segmented customers into New, Returning, and Loyal groups and examined subscription behavior, discount usage, shipping preferences, and revenue by age group.
-
-**Technology:** Python, Pandas, SQL, Power BI, Jupyter Notebook
-
-**Links:** [SQL Analysis](#) · [Python Analysis](#) · [Repository](#)
-
-> Replace each `#` above with your real file or repository link.
 
 ---
 
