@@ -17,16 +17,6 @@ New Delhi, India
 
 I'm an Analytics Engineer who owns the full path from raw source to business metric: ingesting data, structuring it in layered warehouses, testing it, modeling it for BI, and then analyzing it to produce findings a stakeholder can act on. My toolkit spans SQL, Python, dbt, Snowflake, Databricks, DuckDB, and Power BI, developed through a Data Analytics internship and a series of end-to-end projects covering marketing, e-commerce, hospitality, retail, and customer behavior.
 
-I ask the same question at every layer of a project: **if a stakeholder built a decision on this number, would it hold up, and could I explain why?** In practice that means:
-
-- Separating concerns by layer, so each one can be debugged and rebuilt on its own.
-- Writing dbt tests that fail the build when data breaks a rule, instead of shipping a bad number.
-- Keeping business logic (segments, ROI formulas) out of the final model, so a redefinition doesn't ripple through everything.
-- Flagging inconsistencies between dashboard pages rather than quietly correcting them.
-- Backing every recommendation with a quantified number.
-
----
-
 ## Table of Contents
 
 - [About](#about)
